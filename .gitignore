@@ -1,7 +1,12 @@
 .DS_Store
 <<<<<<< HEAD
+<<<<<<< HEAD
 .env/
 data/imsdb_raw_nov_2015/
+=======
+*.DS_Store
+
+>>>>>>> ea792c4cdda6c8f822d744ed9c4e355aeb1ff098
 =======
 *.DS_Store
 
