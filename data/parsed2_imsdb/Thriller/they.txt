@@ -1,0 +1,2615 @@
+face font family courier b b face font family comic sans ms b b mso page border surround header no mso page border surround footer no section size
+in in mso header margin
+in mso footer margin
+in mso paper source p
+msonormal font size pt margin in in pt font family comic sans ms mso style parent mso pagination none mso layout grid align none mso fareast font family times new
+roman mso bidi font family times new roman b b li
+msonormal font size pt margin in in pt font family comic sans ms mso style parent mso pagination none mso layout grid align none mso fareast font family times new
+roman mso bidi font family times new roman b b div
+msonormal font size pt margin in in pt font family comic sans ms mso style parent mso pagination none mso layout grid align none mso fareast font family times new
+roman mso bidi font family times new roman b b b p
+general b font size pt margin in
+in pt font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso style name
+general b b b li
+general b font size pt margin in
+in pt font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso style name
+general b b b div
+general b font size pt margin in
+in pt font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso style name
+general b b b p
+sceneheading b font size pt margin pt
+in pt text transform uppercase font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman
+mso style name scene heading mso style next action b b b li
+sceneheading b font size pt margin pt
+in pt text transform uppercase font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman
+mso style name scene heading mso style next action b b b div
+sceneheading b font size pt margin pt
+in pt text transform uppercase font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman
+mso style name scene heading mso style next action b b b p
+action b font size pt margin pt
+in pt font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso style name
+action b b b li
+action b font size pt margin pt
+in pt font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso style name
+action b b b div
+action b font size pt margin pt
+in pt font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso style name
+action b b b p
+charactername b font size pt margin pt
+in text transform uppercase font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso
+style name character name mso style next dialog b b b li
+charactername b font size pt margin pt
+in text transform uppercase font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso
+style name character name mso style next dialog b b b div
+charactername b font size pt margin pt
+in text transform uppercase font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso
+style name character name mso style next dialog b b b p
+parenthetical b font size pt margin in
+in pt font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso style name
+parenthetical mso style next dialog b b b li
+parenthetical b font size pt margin in
+in pt font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso style name
+parenthetical mso style next dialog b b b div
+parenthetical b font size pt margin in
+in pt font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso style name
+parenthetical mso style next dialog b b b p
+dialog b font size pt margin in
+in pt font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso style name
+dialog mso style next action b b b li
+dialog b font size pt margin in
+in pt font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso style name
+dialog mso style next action b b b div
+dialog b font size pt margin in
+in pt font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso style name
+dialog mso style next action b b b p
+transition b font size pt margin pt
+in text transform uppercase font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso
+style name transition mso style next scene heading b b b li
+transition b font size pt margin pt
+in text transform uppercase font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso
+style name transition mso style next scene heading b b b div
+transition b font size pt margin pt
+in text transform uppercase font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman mso
+style name transition mso style next scene heading b b b p
+shot b font size pt margin pt
+in pt text transform uppercase font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman
+mso style name shot mso style next action b b b li
+shot b font size pt margin pt
+in pt text transform uppercase font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman
+mso style name shot mso style next action b b b div
+shot b font size pt margin pt
+in pt text transform uppercase font family courier mso pagination none mso layout grid align none mso fareast font family times new roman mso bidi font family times new roman
+mso style name shot mso style next action b b div
+section page section b b b tiny golden wheels and gears turning lazily upon metal rods
+small and intricate
+glittering in the sunlight
+the gears are turning within an antique desk clock sitting on a book shelf a small pendulum swinging back and forth behind the glass housing
+the room is barren except for a pair of open suitcases and a bed thats been stripped
+sitting on the mattress is
+smart and clever
+dressed in a graduation gown and staring out the window
+she seems to be lost in thought immobile until the bedroom door swings open and
+aged seventeen and wearing a suit and tie steps inside
+dad says we gotta get moving
+im getting ready
+youre sitting on the bed
+dryly thanks for clearing that up
+ill be right down
+he steps out
+julia takes a framed picture out of her suitcase a candid shot of herself standing with her mother forties a healthy and vibrant woman
+contd sure do miss you
+above her a ceiling fan rotates
+creating a soft humming
+julia walks out of the building where her father guy levin an older man with a kind face waits
+connor is checking his reflection in the car window adjusting his tie fussing with his hair
+i packed up everything
+remembering oh except moms clock i think theres something wrong with it
+its not telling the right time
+ill get it fixed
+probably just needs a few new parts
+guy smiles at julia for a moment
+contd you look just like your mother
+julia is momentarily uncomfortable
+but she recovers smiles and kisses her father on the cheek
+well be late
+students dressed in graduation caps and gowns are gathered on the campus grounds
+julia stands by herself taking pictures with a professional nikon camera
+she focuses the camera upon
+beautiful and sexy
+very particular and demanding
+she smiles perfectly as julia snaps the picture
+but her boyfriend sam burnside cute and mischievous sporting pink hair and loud clothes makes a face
+winding her film julia searches a moment then smiles
+raising her camera lens she snaps a picture of
+strapping and perfectly handsome
+he wears a blue and gold striped tie with his starched white shirt and graduation gown
+he kisses her
+passionate and gentle
+you packed up
+ready to move in
+ill be storing some of the stuff youve already got
+julia smiles at him
+med school doesnt start until august
+at least not for the freshmen so weve got plenty of time to see europe take the car trip up north
+i hope it wont be a drag
+theres a lot of stuff to move out of my mothers cabin
+our friends will be there
+itll be fun
+i hope so
+would it help if i massaged your breasts
+because it would help me
+stifling laughter maybe later
+the students start forming into lines
+contd hey i saw your mom and kid sister
+wheres your dad
+hes not coming
+but its your graduation
+paul shrugs again
+a brief sting of hurt on his face
+wasnt a good enough reason in high school either
+paul looks away
+julia knows how painful this is and wont insult him by trying to diminish it
+julia smiles and runs her finger across his tie knot
+i like your tie
+i am a bruin
+the lines start moving towards the stadium
+hundreds of cheers rise up from the graduating students
+as she walks a sound draws julias attention
+standing on the lawn is a small boy no more than four years old sobbing and clinging to his mothers legs
+julia stops walking as she gazes at the child
+the line comes to a halt behind her
+we cant graduate unless you move
+she stalks walking again
+paul puts his arms around her
+a big traditional house nestled in the hills
+parents and graduating students exchange polite conversation in the yard
+sitting between a pair of open french doors is the gang consisting of julia and paul and terry and sam
+they throw around conversation ignoring the party
+nobody said anything to me about the cabin being secluded
+i said it was a cabin in the woods
+i thought seclusion was a given
+im no good out in the woods
+you know what lives in the woods
+animals that sting
+animals that bite
+so avoid the animals
+i really appreciate you guys helping me
+i couldnt move everything alone
+hey its our last chance to be together
+terry and i are excited
+turns arent we ter
+shes not excited
+can i bring my cotton bedsheets to the cabin
+if i try to sleep in anything but cotton i get hives
+whatever makes you happy
+sam grabs a large drawing pad from the steps
+he opens it
+speaking of which ive got your graduation gift
+sam holds up a sketch of clark kent changing to superman
+paul checks out the drawing
+his nose crinkles
+whyd you want a drawing of superman
+hes very attractive
+staring youre kidding
+hes not even real
+i think most women tend to wonder if superman is super in every way
+there goes your argument
+thoughtfully but spiderman has a nice ass
+off everyones contd what
+julia finishes washing her hands
+grabbing her camera and the drawing julia opens the bathroom door
+standing within an open bedroom is
+another college graduate
+tan and attractive
+dressed exactly like paul identical white shirt gold and blue striped tie
+he pulls off his tie and unbuttons his shirt
+julia doesnt move
+the student peels off his shirt
+her eyes are drawn to a superman s insignia tattooed on his shoulder
+the student catches sight of julia in the hallway
+her face turns bright red immediately
+she starts to laugh
+he smiles at her
+a bit flattered
+changing into something more formal
+he holds up a pair of ripped jeans
+julia backs down the hallway
+i was just using the
+ill forgive you this once
+she quickly leaves
+the blond student watches her go
+a grin on his face
+julia walks out the back door
+stifling her laughter
+paul is talking with guy on the lawn
+julia snaps a picture of them together winds her film and notices
+sweet and innocent
+sitting on a bench
+julia walks towards her
+the little girl is staring across the lawn at a pool shed
+a group of children are playing on the grass in front of it
+the girl becomes aware of julias presence and turns around
+you sitting here all by yourself
+the girl slowly nods yes
+contd dont you want to play with the other kids
+the girls shakes her head no
+contd want me to leave you alone
+the girl shakes her head no
+contd want to mix this up and ask me something
+the little girl notices the camera
+are you taking pictures for sams family
+no im just then im a friend of sams
+but im also a photographer
+i take pictures
+will you take a picture of me
+so you wont forget me
+surprised why would i forget you
+because theyre coming for me
+a long beat
+julia sits next to her
+behind the door
+the girl points towards the pool shed
+the rusted door of the shed is slightly open
+just a crack
+those other kids dont look too scared
+they should be
+playing along so how come only you can see them
+because i know theyre real
+i used to have a little brother but they came and got him
+now my parents say i never had a brother before
+my parents wont remember me either
+something about the girls tone of voice is unnerving
+as if shes resigned herself to this
+a slight wind hisses through the trees
+the girl rises
+contd i gotta go
+they know im talking about them
+wait a second
+julia snaps a picture of the girl
+contd feel better
+the girl stares at her
+are you scared of monsters
+the girl turns and runs across the lawn
+julia is left sitting on the bench
+she glances over at the pool shed again
+raises her camera and focuses on the door which is still cracked open
+she snaps the picture
+julia and paul are romantically entangled as they enter the apartment
+a little drunk
+kissing and frolicking
+she strips off his jacket and tie
+paul abruptly stops
+wait a minute grabbing both sides of his shirt this is a job for
+paul rips his shirt wide open
+buttons popping everywhere
+they both start laughing
+joining together he guides her towards the bathroom
+the wind gently hisses on the balcony
+a cloud of hot steam
+the soothing rush of warm water running over tanned and naked skin
+julia stands underneath the shower her body relaxing into pauls chest his muscular arms encircling her body his lips buried in her neck and shoulders
+her eyes are shut
+her expression is calm
+standing in the guest bedroom at sams house
+young and muscular
+bathed in sunlight
+the tattoo on his shoulder
+her eyes still pressed closed
+smiling a little
+water continues rushing from the shower head creating a hiss that eventually becomes the roar the setting sun blushes crimson across the rolling waves of the pacific
+streaking along the highway is a range rover packed with luggage headlights on
+paul sits behind the wheel
+hes bopping and rapping with sam to hip hop that blares from the speakers
+julia sits on the passenger side leaning against the window trying to shut out the music
+terry looks just as miserable
+finally julia turns off the radio
+a silent beat
+the guys catch their girlfriends expressions
+terry leans forward between the seats
+so the cabin has electricity right
+everything we need
+so it has everything
+it has everything
+wait a minute
+i hear a shoe about to drop
+except a phone
+there it is
+scandalized i need a phone
+its like family to me
+mom dad my brother
+phone so youre roughing it
+the last time i tried to rough it i was in therapy for a year
+why didnt your mother have a phone
+i guess she wanted to be left alone
+at least until she got sick
+paul looks to her
+this wont be too hard on you will it
+staying at her place
+im enjoying this
+julia smiles at him
+paul smiles back
+he switches the radio back on and continues rapping with sam
+julia and terry both stare straight ahead ears pounding
+this is turning into a long trip
+pauls range rover makes its way down a long winding road
+the rovers headlights illuminate the woods lining the road on both sides
+the inside of the range rover is dark
+only the faint glow from the dashboard lights provides any ambient illumination
+sam and terry are snuggled together in the back seat
+everything is quiet
+julia is thinking
+finally she breaks the silence
+do you believe in monsters
+everyone else in the car trades looks
+weve been in the car too long
+im just asking
+the thing under the bed
+the monster hiding in the closet
+what made you think of that
+a little girl at sams house
+she was convinced there was a monster trying to get her
+youre saying you believe her
+julia is suddenly on the spot
+of course i dont
+there are no monsters
+sure there are
+son of sam
+who was ed gein
+he was a mass murderer
+this old hermit whod kill people and take the parts he wanted
+why did he use the parts for
+the police found a skull that was used for a soup bowl
+faces were stuffed and mounted like hunting trophies on the wall
+bones were used for furniture
+he also wore their skin
+terry recoils into her seat
+sorry i asked
+you wanted proof
+there it is
+but its not like hes a monster under the bed
+so why are kids afraid of that
+because they live in a completely different world than we do
+then think about it
+why do kids pick up on things that we cant
+bumps in the night
+footsteps in the hallway
+a thumping inside their closet
+beat kids have a perfect awareness of everything around them
+everything gets quiet
+contd the boogeyman could be real
+so could monsters
+just because youve never seen them doesnt mean they arent there
+the car engine purrs softly
+this is starting to make sense
+and its spooky
+im creeped out
+but my bullshit alarm is going off
+you just cant handle it
+because its bullshit
+serial killers aside my take on this subject is very simple
+if i dont have a picture of it its not real
+okay is this conversation like a radio station
+can we just change the channel
+because personally id like to get to sleep tonight
+terry has just finished saying these words when an animal runs out of the woods into the middle of the road
+a black shape in the headlights
+eyes flashing in the dark
+paul slams on the brakes
+the range rover smashes into it throwing the shape into a ditch at the side of the road
+the range rover swerves and comes to a squealing halt
+everyone catches their breath
+a moment of dead silence
+contd everyone okay
+nods were fine
+what was that
+i think it was a dog
+julia unlocks her door
+wed better check the car
+she steps out of the rover
+the others follow
+the hazard lights are switched on
+paul walks around to the front of the rover
+the bumper is dented
+look at that
+theres a couple thousand dollars out of my wallet
+you can probably get someone to pop it back
+for a couple hundred dollars
+sam looks down the road
+he can barely make out a large form resting lifeless in the ditch
+he starts walking towards it
+im sorry about your car paul
+begrudging yeah well
+the conversation becomes distant as sam walks slowly up the road moving past the yellow flashing hazard lights which click rhythmically
+click click click sam approaches the ditch
+darkness is all around
+he kneels down alongside the body of the animal
+very little is visible of the corpse except for its dark mangled form sprawled across the dirt
+sam picks up a stick and pokes at the body
+he pokes at the corpse again
+the hind legs of the corpse suddenly twitch
+a reflex action
+sam leaps back
+the life nearly scared out of him
+a flap of hairless skin slides away from one of the animals hind legs
+sam leans forward to get a better look becoming simultaneously repulsed and fascinated
+take a look at this
+is it a dog
+sam glances at the dead corpse and back to his friends again
+he looks shaken
+i dont know
+the rest of the group moves down the road
+a weird unease has started to settle in
+paul and julia kneel down in front of the corpse
+its almost unrecognizable
+the darkness smothering the road keeps them from getting a handle on any of the bodys features
+it looks like a dog to me
+did you see the leg
+what about it
+sam takes the stick and gently pushes away the flap of torn skin for a better look
+the group leans forward
+a deep bleeding wound has been exposed
+through the torn flesh and blood pumping over charcoal skin the group can see bones flashing into the moonlight
+but intermingled with the animals skeleton are
+glittering and clean
+a series of connected stainless steel threads and pallid bone that have grown together
+ever seen anything like that
+it looks like steel
+like someone put steel into its body
+i dont think it was put in there
+it looks like it grew that way
+what kind of animal has steel in its skeleton
+terry steps forward tentatively
+what are you looking at
+are you sure its dead
+come on honey
+its a dog
+not a zombie
+wheres your camera
+its in the car
+ive got it
+paul races back to the range rover and opens the passenger door
+he withdraws julias camera
+julia takes a step back into the middle of the road
+the wind is sifting through the trees creating a soft hissing noise as the branches dance and twist in the shadows
+paul returns and hands the camera to sam
+you want to turn it over
+im not touching it
+sam kneels down
+he points the camera and shoots
+the camera flash cuts through the darkness and falls upon the corpse
+but only for a millisecond of clarity
+both of the young men stand frozen thunderstruck staring down at the misshapen shape in front of them
+a long period of amazed silence follows
+thats all wrong
+paul shakes his head
+thats not a dog
+stunned what were those things coming out of its back
+paul starts recoiling
+his stomach is getting weak
+thats not a dog
+the cool summer wind whistles through the trees around them
+sickened that doesnt even make sense paul
+paul looks over at her
+contd lets get in the car
+we need some flashlights
+hushed screw the flashlights
+what the hell is it
+were outta here
+julia and paul walk briskly to the range rover
+sam and terry follow them glancing back over their shoulders
+what the hell is it
+paul tosses the camera into the rovers back seat
+he slams the door shut
+julia opens the front passenger door
+a soft thumping from the woods
+almost like footsteps
+get in the car
+julia hops into the front seat and slams her door
+the atmosphere is quickly turning into panic
+paul jumps behind the wheel as both sam and terry close their doors
+i want to know what that thing was
+paul presses the automatic door lock
+paul start the car
+he searches his pockets
+he checks his jacket
+i want to know what it was
+will you shut up
+paul fishes out the car keys from his jacket pocket
+he starts the ignition
+the engine roars to life
+a heavy thump
+right outside the back window
+sam and terry instinctively look towards the rear hatch
+theres something behind the car
+paul hits the gas
+the range rover disappears into the night
+the calm and unnerving quiet of the woods are left behind
+the wind whistles softly
+a fast food joint at the side of the road
+everyone is sitting quietly at a table
+fast food leavings are littered across their plastic trays
+nobody is saying anything or looking at one another
+i want to get the body
+everyones face drops into shock
+paul almost laughs
+you do that
+well wait for your ass right here
+sam leans forward in his seat
+nothing about that thing looked right
+there was metal in its skeleton
+maybe it wasnt metal
+it mightve just looked like metal
+there were fucking gears for chrissake
+go back out there
+do whatever the hell you want
+but count me out
+weve already got a picture sam
+lets get a few more then
+i want to get a good look at that thing up close
+adamant im not going back there
+let julia decide
+its her camera
+the group stares at julia
+she remains silent
+julia stares back at all of them
+a small child begins crying and screaming in the restaurant
+julia flinches at the unexpected sound glancing over at the childs parents as they quiet him down
+she rises from the table
+i have to use the bathroom
+she walks straight into the bathroom
+after shes gone
+im not going back there
+large and poorly lit
+several closed bathroom stalls face a row of sinks and a huge mirror
+a toilet flushes
+julia leaves one of the stalls and pulls the door closed behind her
+she moves to the mirror washes her hands and retrieves a brush from her purse
+water drips from one of the leaky pipes in the bathroom while the fluorescent bulb over the mirror crackles softly
+julia is about to brush her hair but something unnerves her
+she cocks her head slightly
+she turns around and checks out the bathroom
+the doors to the stalls are all closed shut
+empty and quiet
+she starts brushing her hair
+a few moments pass
+then she stops and listens to the water dripping from the pipe
+julia turns back around and looks at the bathroom
+one of the stall doors all the way at the end is now slightly open
+just enough to reveal a patch of darkness and gloom within
+the sound of water dripping abruptly stops
+julia looks like shes about to crawl out of her skin
+she quickly shoves her brush back into her purse and leaves
+julia walks towards her friends as they collect themselves
+everyone is slow getting their stuff together
+i want to leave
+the child starts crying again
+pointing at the bathroom
+this disturbs julia further
+the group leaves the table
+the group emerges from the restaurant
+the parking lot is almost deserted
+no people are in sight
+julia moves leisurely towards the range rover just ahead of terry and sam but shed walk a lot faster if pauls arm werent draped around her shoulder
+she looks tight and nervous
+her eyes scanning the parking lot
+the cars are empty
+sidewalk litter dances in the wind
+inside one of the parked cars a featureless shape is sitting behind the wheel
+the shape turns and stares at them
+everyone piles into the range rover
+julia throws a nervous glance back at the shape in the car
+hes still watching them
+everyone piles into the car
+paul starts the engine and pulls out of the parking lot
+julia relaxes into her seat relieved
+the range rover heads off into the woods
+a rustic home surrounded by huge pine trees and beach grass overlooking the ocean
+there are no neighbors in sight
+pauls range rover is parked out front
+the basement is saturated in a bright red light
+julia is developing a photograph within a small basin
+paul and terry are seated on the stairs
+sam is pacing
+how much longer
+its coming out
+i still think we should get the body
+we could drive out there haul it into the car
+im not loading that thing into my car
+i dont give a shit what it is
+its not coming back here
+julia lifts the developed picture out of the basin
+she switches on the light
+the group crowds around her
+what is it
+what does it look like
+the photograph is blurred
+the body is indistinguishable
+what happened to the picture
+out of focus
+what do you mean its out of focus
+i took the picture
+the flash went off
+sam this is a professional camera with a zoom lens
+you cant just point and shoot
+a quiet moment as they stare at the picture
+well so much for that
+sam looks at the picture then at his friends
+with a look of somber frustration sam quietly turns and charges up the stairs taking two at a time
+after hes gone its not a big deal
+whatever it was
+then hell get over it
+cloudy and overcast
+a set of colorless waves crash into the rocks
+sam and julia and terry walk just beyond the rippling surf arguing with each other
+i cant get over it
+that thing looked wrong
+of course it looked wrong
+paul rammed it with his car
+what about the blood
+it wasnt red
+it was black it was like
+oil coming from a busted engine
+i mustve missed that
+lets find it
+cut it up
+measured sam i realize that youre an extroverted comic book artist and im a neurotic
+but its only now at this moment that im wondering why were dating
+sam turns back to julia ill pay you to take me back
+you dont have to pay me
+take the car
+the rovers a shift
+i can only drive an automatic
+hes out running
+besides you heard him last night
+hed never do it
+julia stares at him
+its a dead animal
+so come with me
+you take the pictures this time
+if its just a dead animal then youre right and im wrong
+but if its not weve got a picture of it
+a picture of what
+a set of foaming waves hiss as they slide along the sand
+julia stands with her arms folded
+theres something really creepy about it which she doesnt want to admit
+monsters dont exist
+pause sayin yes
+or saying no
+julia stares at him deadpan
+sam just stares right back
+the same lonely stretch of road from the night before
+the range rover appears around a corner and pulls over to the side of the road
+julia opens her door camera in hand and gets out
+sam follows her lead
+this is it
+i think so
+you can see the way the road turns sharply to the left
+the rest of the drive was straight
+youve got film right
+a new roll
+you can have all the pictures you want
+julia and sam start searching the ditch
+feet crunching in the dirt
+moving away from the car
+a soft thump echoes from somewhere in the woods
+a place just beyond the wall of pine branches and shrubbery that shivers in the breeze
+sam and julia look around
+slight grin the boogeyman lives here
+so will you if you keep talking like that
+they keep walking
+a beat passes
+can i ask you something
+last night on the road after i took the picture and we started walking to pauls car did you have the same feeling
+that we were being chased
+julia doesnt say anything
+she stops cold in her tracks
+just ahead of her resting motionless in the ditch is
+swathed in dark fur twisted at a pathetic angle huge gashes in its side
+the corpse of a doberman pinscher flies are buzzing and swarming over the dogs open wounds
+julia and sam move towards the dogs lifeless form
+theres your monster
+thats a dog
+sam kneels in front of the corpse
+waves off some flies
+thats not what i saw
+i dont see any other corpses on the side of the road do you
+a long moment
+sam stares back down at the dobermans body
+thats not what i saw
+eyes slightly open
+a misshapen form plagued with flies
+the sound of insects swarming drowns out the wind hissing through the trees
+paul is jogging through the woods
+a light mist hangs in the cool air
+the sounds of the forest surround him
+suddenly the birds stop singing
+paul becomes aware of this
+he stops running and looks around
+the forest is deathly still
+the sound of a twig being crushed underfoot
+paul keeps going a chill on his spine looking back over his shoulder
+a picture postcard community consisting of quaint storefront shops and manicured parks
+paul stands right in front of a freshly painted realty office building with a picketed fence sipping a coke watching a homeless woman across the street screaming and shouting at
+shes right next to the parked range rover
+julia walks out of the realty office
+the cabin has a buyer
+what about the movers
+theyre coming on sunday afternoon so well have to start packing
+the homeless woman starts walking off down the sidewalk
+moving away from the rovers parking space
+i thought we were gonna have to make a run for the car
+i feel sorry for those people
+but that doesnt mean i want to get screamed at
+people are ignoring her
+maybe thats the only way she can get attention
+shes doing a good job
+kept me away
+they start crossing the street towards the car
+how does someone end up like that
+i think were witnessing it first hand with sam
+what did you guys find on the road anyway
+paul stares at her
+personally im glad we didnt find frankensteins monster
+you just like being right
+grins damn straight
+sam heads away from the cabin his drawing sketch pad under his arm moving into the woods
+a picture is lifted out of the developing basin
+the shot of the little girl from the party
+her expression is distant
+bathed in the red light julia gazes at the picture for a moment then places it to the side
+she goes to work on the next piece of developing paper into the basin
+rocks the basin a bit
+the timer in the basement ticks
+the picture starts to manifest
+the photo of the children and pool shed at sams house
+julia frowns slightly
+something is wrong with the photograph as the details become more tangible
+she lifts the photo out of the basin
+standing just inside the sheds door is a blurred figure
+hiding in the dark
+sam is sitting on a fallen tree trunk sketching on his drawing pad with a feverish intensity
+a rough drawing of the animals leg intertwined with steel rods and metal threads which culminate in a large pulley where the hip bone should be
+a warm and comfortable cabin
+simple and subdued
+paul is seated on the couch typing into his powerbook which is hooked up into a phone jack in the wall
+julia stands next to him holding the photograph
+ive never seen anything like this before
+i thought it might be a flaw in the negative but now im not so sure
+will you take a look
+not paying attention okay
+he keeps watching
+youre in a chat room with a bunch of strangers
+defensive theyre friends
+what are their last names
+they sit face to face
+paul is speechless for a moment then impatiently takes the photograph and looks at it
+i dont see anything
+he puts the photo down and gets back to the chat room
+you didnt even look
+he didnt i looked
+theres somebody in the shed
+i couldnt see it when i took the picture but now its there
+usually when you take a picture you cant see a blur
+paul smiles at her
+julia stares right back
+give your friends my best
+julia takes the photograph and leaves
+paul types into his computer julia sends her best
+the message pops up next to his user name
+within seconds several other user names in the chat room respond with whos julia
+terry is sitting on the counter twirling her hair and chatting on a cell phone
+julia enters the kitchen
+on the phone im not kidding dana
+theres no phone
+beat theres a jack and the phone line works but theres no phone uh huh
+paul was able to get on the internet
+im using his cell
+quietly i need you to look at something
+julia holds out the picture
+terry looks it over briefly
+polite nice picture
+she gets back to her phone conversation
+contd im back
+beat i dont know if he has any free minutes but he definitely wont after this conversation
+thank god for airtouch
+frustrated julia takes the picture and leaves the kitchen
+the air is completely still
+a hush has fallen
+the only sound is the ocean and crickets chirping in the grass
+julia wanders outside holding some of the developed photographs from the party
+sam is sitting on the front steps working on his drawing
+could you look at
+sam looks up from his drawing pad
+julia sits on the porch glider and looks through the photos
+the little girl looking back over her shoulder
+the blurred shape inside of the shed
+a moment passes
+julia shuts her eyes as a slight breeze comes up
+she slips into a dream like state calm and relaxed before opening her eyes to find
+sitting back on the hood of a sports car
+wearing a white tank top undershirt
+the tattooed s insignia visible on his shoulder
+bathed in soft moonlight
+he even looks good in the dark
+their eyes meet
+smiles are traded between them
+the wind sifts gently over the porch
+its all very dream like a spacious bedroom
+julia is already in bed and wearing a night shirt
+paul is grinding out a set of crunches
+it just would have been nice if somebody had looked at it
+you were on the internet
+terry was on the phone
+i felt like i was living with a bunch of machines instead of people
+would you look at it again
+i already did
+and i still dont see anything
+paul gets into bed
+that little girl said there was a monster in the shed
+kisses her it was probably another dog
+he switches off the light
+paul turns over and goes to sleep
+julia sits for a moment in the dark
+alone with her thoughts
+she looks over at the walk in closet across the room
+the closet door is slightly open
+just a crack
+not enough to provide any clear view of what lies within but just enough for something monsters included to peek out
+julia stares at the closet
+she knows better but its dark and her primal fears are taking control
+to herself stupid
+she gets out of bed and tiptoes to the closet shutting the door
+then she gets back into bed
+smiling to herself she goes to sleep
+the wind is picking up
+the clock on the night table reads am
+julia turns over in her sleep and stirs awake
+she groggily looks over towards the closet
+julia practically sits up in bed
+the closet door is wide open
+a childhood nightmare come to life
+julias breathing quickens
+she reaches towards the other side of the bed
+a whisper paul
+her hand finds nothing but sheets and empty space
+theres nobody there
+she quickly turns to locate her boyfriend
+but hes gone
+she tries to switch on the light
+the light stays off
+she tries again
+then she hears it
+a faint sound
+almost like a shuffling the sound of something dragging itself lightly across the floor to the edge of the bed
+julias throat has gone dry
+carefully she creeps towards pauls side of the bed and checks the floor
+there is nothing in sight
+the only sign of movement are the shadows from the trees outside
+there is only one place left to look
+julia cautiously steps down to the floor
+sinking down on her knees she gently lifts up the dust ruffle and looks into the inky darkness underneath the bed
+the space is empty
+julia drops the dust ruffle and sits up gasping
+then a familiar voice comes from it
+its just me
+paul switches on the light
+hes wearing a ucla sweatshirt
+the light wouldnt turn on
+julia catches her breath
+the fear finally draining from her
+where were you
+i was cold so i got a sweater from the closet
+and i went to the bathroom
+why were you looking under the bed
+julia isnt quite sure how to answer
+i thought there was something in the room
+packing tape is pulled back from a roll
+julia finishes taping up a cardboard box
+terry is packing some books into another box of her own
+you thought there was a monster in the room
+and you admitted it
+i didnt know what else to say
+when you dont know what else to say you lie
+but i really did hear something
+youre worse than my boyfriend
+julia looks towards the front door
+sam is sitting on the porch steps sketching on his pad oblivious to everything around him
+hes in his own world isnt he
+thats an understatement
+i have a sinking feeling that sex is out of the question for this trip
+this sparks something in julia
+she hesitates looking through an open doorway where paul can be seen packing some clothes
+julia speaks to terry in confidence
+do you fantasize about other people
+if i havent yet i probably will by the time were ready to leave
+ive been fantasizing about a guy
+anyone we know
+id like to know that
+hushed he has a superman tattoo on his shoulder
+terrys mouth drops
+the girls move closer together
+yes when did this start
+i walked out of the bathroom and he was changing out of his suit
+he lost his tie his shirt
+and then he spotted me
+what did you say
+i got out of there
+but ive been fantasizing about him ever since
+power to the people
+but paul is the perfect boyfriend
+top to bottom
+hes gonna be a doctor
+continuing he never gets upset about anything
+what the hell is wrong with me
+its just a fantasy
+yeah but when i made love to paul on grad night
+i thought of him terry stares
+dont tell paul about this
+id rather not test the whole he never gets upset about anything part
+are you okay
+i dont know
+i think im flipping out
+seeing things in pictures
+thinking that theres a monster in my closet
+rising youre being too sensitive
+we woke up with our closet wide open and im not upset about it
+your closet was open
+having to wash my hair without an all natural conditioner
+that upsets me
+she walks out
+julia sits quietly in the living room left alone with her own puzzled thoughts
+julia is walking down the hallway
+she happens to pass the bathroom door which is slightly open
+within the bathroom
+the blond student is toweling off
+the tattoo plainly visible on his shoulder
+his eyes lock on hers
+julia reacts and runs straight into paul
+you scared me
+i wasnt looking
+im going for a run
+see you when you get back
+remembers oh paul
+dont leave the closet door open anymore all right
+you left it open
+i closed it after i got my sweatshirt
+i thought you opened it
+well damn julia
+your monster isnt just noisy hes also inconsiderate
+he kisses her on the cheek and takes off
+julia stands alone in the empty hallway a chill running down her spine
+the door slowly creaks open
+julia stands in the doorway surveying the closet a cluttered and claustrophobic space despite its size
+clothes draped on hangars
+cardboard boxes stacked on shelves
+julia moves inside and pulls a string hanging from a light bulb which acts as a switch
+the bulb stays dark
+she tries again
+the light still wont come on
+julia carefully looks through some of the clothes
+she kneels down and checks the floor
+a long creaking behind her
+the natural light fades
+julia looks over her shoulder a bit skittish as the closet door eases back towards the doorjamb
+but theres nobody there
+just the faintest hint of a draft
+julia keeps searching through the clutter
+moving shoes and boxes out of the way
+then she spots something glittering in the ribbon of light coming from the closet doorway
+a small object resting in the corner
+julia reaches down and picks it up
+small and intricate with erratic markings
+twisted and strangely ornate
+the shape and texture of the metal is almost completely alien
+julia holds the metal into the light
+behind her a shadow moves
+julia screams dropping the object and whirling around as a cardboard box smashes down behind her
+tumbling from one of the shelves above
+old shoes scatter across the floor
+julia catches her breath
+on the floor the metal object sparkles in the light
+a draft hisses through the open closet door
+the range rover races down the empty road
+julia sits behind the wheel
+her eyes intense
+she looks over at the passenger seat where both her purse and the metal object are located
+the range rover streaks out of the woods towards santa mira
+julia walks up the front steps leading to the library a weathered building that overlooks the town square
+a banner hangs over the front entrance
+the stacks are deserted and still
+julia sits at a reading table flipping through a book surrounded by long rows of bookshelves
+julia flips from page to page allowing momentary glimpses of various drawings vampires werewolves witches a ghastly thing crawling out from under a maidens bed
+as she puts down the book and grabs another from a stack on the table
+she opens it and starts paging through
+as julia finds a drawing of a sleeping child
+just beyond the bed is an open closet door the horrid face a monster watching the child from within
+julia shivers down to her soul
+a familiar feeling of late
+a slight squeaking catches her attention
+she looks across the reading room to find ten years old
+sitting a few tables away but almost directly opposite her
+hes wearing a superman shirt
+he smiles timidly and waves
+julia waves back
+a thump behind her
+julia turns and looks over her shoulder
+she barely catches sight of a shadow slipping across the wall in the stacks
+the scraping of chair legs against the cold floor
+julia looks back towards where the boy was sitting
+the chair is pushed back and empty
+another thumping in the stacks
+a feeling of anxiety washes over julia as she grabs some of the books and leaves
+its getting dark
+moonshadows shift across the lawn
+soft rock seeps from a pair of portable compact disc player speakers
+paul removes a lid of grass and some zigzag papers and starts to roll a joint
+everyone looks pretty toasted
+cardboard boxes and candles are everywhere
+sam is sitting off to himself
+hes still drawing on his pad
+julia is reading one of the books from the library
+takes a hit monsters
+symbols and dream images
+now you see i dont agree with that
+i think everything has some kind of physical representation
+people cant just come up with this stuff
+you did a good job last night
+julia hands him the metal object from the closet
+what do you make of this
+whered you find it
+in the closet you didnt leave open
+whats she talking about
+wearisome my girlfriend believes in the boogeyman
+i never said it was the boogeyman
+maybe its some primeval energy that causes a response in human beings
+this could be the physical representation of that energy
+its piece of shit
+julia turns hopefully to terry yes
+its the physical representation of a piece of shit
+pot induced laughter
+julia takes back the object
+youre not being objective about this
+have either of you ever been scared
+im scared right now that youve smoked too much
+ive been really scared
+maybe when we hit the dog
+sam looks unsettled
+you mean this
+sam tosses his sketch pad into the center of the floor
+everyone leans forward getting a good look at sams detailed drawing of completely fleshed out with distinct mechanical parts hinged into flesh and bone
+almost as accurate as a photograph
+contd that thing we hit on the road
+it wasnt a dog
+it wasnt some primeval force either
+then it was a monster
+julia picks up the drawing as paul peers over her shoulder
+the picture looks particularly unsettling in the flickering firelight
+it almost looks alive
+the fire is dwindling
+terry and sam have both passed out
+julia relaxes on the floor staring at sams drawing while resting in pauls lap
+i cant believe sam drew this
+hes been acting like a freak
+you think we couldve been wrong
+about the dog
+maybe the next day when sam and i went back to the road
+maybe we found the wrong body
+can we drop this
+i just want to know
+i just want to know whats going on
+nothings going on
+here give me the drawing
+im not done yet
+your hands are shaking
+come on julia
+give yourself a break
+she hands the drawing pad to him
+paul puts it on the couch
+we need to talk about this
+paul begins stroking her hair
+gently and repeatedly
+just for a minute
+julia looks really tired
+she closes her eyes for a moment as pauls steady breathing fills the room
+the she opens them turns her head and gazes at
+sitting in a chair
+smoking a cigarette
+smiling down at her
+she cranks her head and looks deeply into her boyfriends eyes
+he smirks and gently strokes her hair
+soft youre tired
+go to sleep
+her breathing becomes more steady
+in the distance a sound begins to permeate the cabin
+grinding and drumming like the churning of a large factory
+a calming and soothing noise drifting over
+quick flashes of images which are strung together a a turbine driven by a cloud of pumping steam
+b the superman tattoo on the blond students shoulder
+c a doberman running across a road
+d a man limping along wearing leg braces and using steel crutches
+e a womans hands slipping over a young mans bare chest
+f a back brace being locked into place
+the stall door at the far end of the bathroom eases open
+sound except for the humming of machines
+julia stumbles through the snake pit
+mental patients stagger around her
+many of them are dressed like homeless people
+staring into space
+bodies twitching and gnawing on their fingers
+lying in their own urine
+julia looks skyward towards a screen that doubles for a ceiling
+dark figures are standing on the screen looking down at them
+a pair of orderlies gently take julias arm and lead her out of the snake pit
+julia looks at the wall as she walks
+shadows move across the wall
+almost like ripples in water
+but the shadows gradually become the grotesque silhouettes of human body parts arms legs heads feet hanging and rocking gently from hooks blood trickles down over the superman tattoo
+clawed fingers slide around the open stall door
+person is having a seizure
+propped against the wall
+his head and body are entirely covered with braces that form a metal exoskeleton
+a gynecology exam
+a womans legs are held open by stirrups
+a pair of hands protected by rubber gloves cruelly insert a large alien looking metal object which is nothing but sharp tentacles and angles between the legs
+a woman shrieking through rotting teeth and blood
+julia steps into the surgical room
+the little girl from sams party is resting on a gurney
+her small body is clamped down with metal bands
+her blonde curls draped over the edge
+her eyes open and staring at nothing
+something else lurches into the room
+moving in the shadows
+a surgeon enclosed in metal braces and holding a pair of alien looking shears in his hands
+julia tries to scream
+no sound comes out
+the shears close
+several drops of blood
+then a blonde curl
+hit the tile floor
+the sound of the machines is interrupted by living room night julia lurches awake
+paul and terry are lying immobile on the floor
+hundreds of candles have been placed throughout the room bathing the cabin in a dull amber glow
+there is no julia starts to rise to her feet
+her fingers graze something sharp
+she winces and snatches her fingers away from
+julia discovers a small ribbon of blood trickling from her index finger
+she sucks on it and notices sitting behind the couch
+his eyes are intense as he erases something from his drawing pad
+julia walks around him until she can see the sketch
+sam erases the picture working from the shoulders up
+there is still julia is dumbfounded
+she hears a slight noise coming from somewhere in the cabin
+a small hissing sound
+soft and unobtrusive
+julia looks around
+the sound seemed to come from behind her
+but theres nothing in the room
+her friends are still asleep
+sam is concentrating on his drawing
+unmistakable this time
+a diminutive scraping almost like fingernails raking on icy glass slithering out from a darkened hallway
+she moves towards the sound
+julia creeps into the hallway until she can barely see the rows of bedroom doors
+all of them are closed shut
+the scraping sound rises up again
+behind one of the bedroom doors
+julia reaches out for the doorknob
+the door opens
+julias stomach rises into her throat
+terror floods her face
+resting on the bed is a body bag
+so smeared with blood that the corpse inside isnt visible except for its massive bulk
+something scratches on the body bag from julias body goes rigid
+she cant force herself to move
+the body bag is slowly unzipped from the inside
+stretching down the length of the plastic until the bag is wide open
+the corpse inside is still hidden
+as if drawn by some alien force julia moves to the bed
+her entire body is shaking
+she reaches out and carefully peels back the plastic
+resting within the body bag is the little girl
+eyes puffed shut
+hair slicked with blood
+her skin is livid
+her face is ghostly white and smeared with crimson gore
+julia is frozen in place
+julia is startled awake and groggily looks around the room
+paul and terry are still in the process of getting up
+look whos up
+smiles you sleep well
+julia stares back
+she looks pretty freaked
+contd uh oh
+i didnt sleep well either
+i dreamt that all these cockroaches were eating my legs
+you want to trade
+right before i woke up my head exploded and all these snakes came out
+probably went to bed
+terry nods as she rises to her feet
+i need a hairbrush
+and a facial
+she stumbles into the hallway
+paul turns to julia
+you had nightmares too
+worst ones ive had in a long time
+i thought i was hallucinating
+paul winces and rubs his temples
+contd whats wrong
+ill be fine
+terry briskly walks out the hallway
+she looks alarmed
+the group walks towards one of the bedroom doors
+i cant get the door open
+paul tries the doorknob
+the door wont budge
+sam open up
+he pounds harder
+he wont answer
+maybe he cant answer
+paul shoves hard against the door
+but it still wont give
+what about the bathroom door
+it connects to your room
+i tried it
+paul turns the doorknob and throws all his weight against the door trying his best to bust it down
+no such luck
+voice rising sam he tries again and again
+the door inches open
+just a crack
+contd help me out with this
+paul and julia push on the door forcing it wider
+paul struggles through the aperture slipping underneath a mattress thats been placed against the door and stumbles into the room
+the bedroom is a disaster area clothes and smashed glass cover the floor
+mirrors have been shattered
+most of the furniture and portions of the bed have been piled in front of the door creating an almost impassible barricade
+the window is wide open the curtains billowing in the breeze
+julia and terry make their way into the room
+careful of the glass
+dont step on it
+the group stares at the room
+taking it in
+trying to comprehend it
+frozen you got me
+paul and terry are walking along the trail
+her words sound hollow in the empty forest as they keep moving passing behind huge pine trees that obscure them from view
+a soft breeze rises up and hisses through the trees
+julia is cleaning the mess in the room
+shes just finished tossing a few shards of broken glass into a garbage bag when she flinches and draws her index finger back
+the finger has a scab on it
+exactly where she cut it in the dream
+dried blood marks the wound
+terry looks beside herself
+paul and julia are seated
+he must have gotten out through the window
+thats the only thing i can figure
+we have to call the police
+you looked everywhere
+everywhere near the cabin
+but we cant cover every square inch of forest out there
+he might be sick
+he might need help
+i cant understand why hed do something like this
+he was acting nuts
+impatient i need a phone
+ive got my cell
+paul fishes the cell phone out of his pocket
+he hands it to her
+almost on cue
+terry glances over at her friends then clicks the receiver
+beat sam julia and paul sit up in their seats
+contd where are you
+no where are you
+beat how did you get there
+terry hurriedly grabs a pen
+she starts writing on a pad
+contd just a minute
+im writing it down
+i think i know where it is
+beat sam whats going on
+she hangs up the phone
+where is he
+i dont know
+he wants me to meet him
+my brother has an apartment up there
+hes out of town but i have a spare key
+i guess i could stay there
+you still want to call the police
+terry doesnt respond to this
+outside an open window the wind hisses through the trees
+an empty bus station consisting of a single room with a clerk sitting behind the front desk
+julia and paul are sitting on a pair of chairs waiting patiently
+terry is using a phone booth outside
+she hangs up and walks into the depot
+did you get his parents
+it was the wrong number
+didnt sam give you that number
+maybe i wrote it down wrong
+terry winces a bit
+she massages her legs
+are you okay
+my legs are killing me
+you sure you dont want us to drive you
+you have to stick around for the movers
+ill be fine
+the bus arrives in front of the depot
+contd theres my ride
+terry grabs her suitcase
+julia hands her a slip of paper
+this is pauls cell number
+you call us
+let us know what happens
+i just need to talk to him
+dont call the police or anything until ive had a chance to do that
+terry hugs julia
+paul gives her a quick kiss on the cheek
+carrying her suitcase terry backs toward the door smiling sadly at julia and paul as she opens it
+contd itll be okay
+her voice resonates with desperate hope rather than confidence
+she leaves the depot
+paul places his arms around julia as they watch the bus leave the station trailing smoke
+julia is cleaning up
+she kneels down and picks up some of the melted candles and beer bottles
+paul walks into room holding a broken picture frame
+i talked to the movers
+why didnt they show up
+the company has no record of the order
+are they coming now
+itll take them a while to work us into the schedule get a van out here to pick up everything
+paul holds out the mangled frame
+i also found this in the guest bedroom
+sam knocked one of the packing boxes over
+this was inside
+julia takes a look at the frame
+its the same picture from her room of herself with her mother
+the broken glass has torn the photograph
+contd i wasnt sure if you wanted to keep it
+ive got one
+contd you know this is the only picture i have of my mother
+beat she was always taking pictures of us but we never got any of her
+emotional if i didnt have this i couldnt prove that i had a mother
+thats not true
+im so worried about sam
+julia drowns in her thoughts
+paul touches her cheek
+lets get outta here
+smiles good idea
+ill get my keys
+paul walks out
+julia places the frame on the coffee table
+she notices something on the floor
+its a small object resting in the corner almost hidden from view
+julia reaches into the shadows and picks up
+another piece of metal with strange markings
+julia stares at the object in her palm
+to herself where are these coming from
+a warm summer afternoon
+the entire town has congragated in a park with a breathtaking view of the ocean
+music and noise
+a huge banner draped over the street reads
+julia navigates her way past the booths and thrill rides that have been erected on the lawn
+she watches some passersby
+as a mother talks on a cell phone while her six year old daughter tugs at her sleeve
+trying to get her attention
+the mother keeps pushing the child away as she talks
+julia observes this scene until she hears
+im your mother
+julia steps out of the crowd
+searches for the voice
+woman is shadowing a college age girl walking with her boyfriend
+theyre trying to ignore her
+im your mother im your mother
+im your mother
+the couple walks faster
+the homeless woman is left behind
+contd futile im your mother julia stares helplessly
+spinning merrily in the center of the park
+loud calliope music
+young kids and teenagers occupy the horses and benches
+julia slowly walks towards the carousel snapping pictures of the children and whirling lights
+behind her the sound of a screaming child rises above the music and laughter
+she turns and finds a two year old baby sitting on her fathers shoulders crying and pointing at wearing his blue superman shirt
+hes sitting on a swing set by himself
+sad and alone
+he makes eye contact with julia
+she smiles at him and waves back
+the poles spearing the horses rising and falling into the floor
+the platform rotating near the grass
+the calliope music becomes the humming of machines
+julia is wandering through a maze of shooting galleries
+she searches through the crowds of teenagers and children at the booths
+finally she locates
+approaching her with a large teddy bear under his arm
+where did you go
+i won this for you
+julia smiles at the bear
+you sure you want to give him up
+nice smile i think hed crowd my barbie collection
+julia kisses him
+he kisses her back and winces in pain
+head still hurts
+need some aspirin
+already took some
+ill be okay
+paul notices that theyve wandered into a row of psychic and tarot card booths
+contd hey look
+want to get your palm read
+as long as youre feeling up to it
+julia spots another booth with a sign overhead the past through possessions
+just a minute
+you go to the palm reader
+i want to check out this one
+the past through possessions
+unimpressed scam city
+and palm reading isnt
+shes got him there
+ill meet you over there
+she kisses him quickly
+they split up
+paul approaches the booth
+an african american woman in her mid forties tess sits behind the counter
+loose and upbeat
+wearing more colors in her clothing than even a rainbow could provide
+can you read my palm
+you got five bucks
+julia walks to the front counter of the booth
+a pair of women are sitting behind the counter but the one who sticks out is rosemary sixty psychic and clairvoyant
+she wears a purple kaftan which barely hides her weakness for ice cream and cookies
+can we help you honey
+you can tell me things just by holding something of mine
+i have a perfect track record
+i found two missing children in the spring of and helped the state police catch a murderer in
+sourly my grandchildren arent quite as impressed
+a little brighter what did you want me to look at
+julia reaches into her pocket and gently places something on the counter in front of rosemary
+tess takes pauls hand
+so what do you want to know
+its kinda stupid
+but i sorta wanted to know about my dad
+if i should see him
+knowingly you and your father dont get along
+my parents got divorced when i was sixteen
+i got into a fight with him
+said some stuff
+he bows his head a little
+a tough subject for him
+lets take a look
+tess cocks her head a little to the side
+she looks confused
+contd soft ill be damned
+well kid you might be the first person to make me hang up my fortune telling degree
+usually the palm makes sense and this one doesnt
+how do you mean
+according to this you dont exist
+off paul his face turning white
+rosemary handles one of the metal objects turning it over in her palm
+julia watches her as she goes through this ritual
+this is interesting
+let me guess
+they came from a vacuum cleaner right
+this came from a machine
+but not a household appliance
+where did it come from
+rosemary turns the object over in her palm
+over and over
+something that was alive
+julia leans forward in her seat
+but you just said it came from a machine
+so how can a machine be alive
+i dont make the news
+i just report it
+i found the larger one inside of a closet
+do you know how it got there
+rosemary continues meditating
+turning the object over between her fingers
+staring at it
+gradually she falls into a trance
+her breathing slows
+we shed our parts
+and our skin
+what are you talking about
+rosemary is oblivious to anything around her
+but they need to be replaced
+some of the parts we can find
+beat others need to be harvested
+the other psychic seated next to rosemary throws her a curious glance as she counts up some money
+contd well wait on the side of the road
+until one of the machines come
+beat one of us will be sacrificed
+that will stop the machine
+then we can take whatever skins are inside
+softer we can use their parts
+paul walks up
+she motions for him to be quiet
+we stopped the machine
+but there are more of the skins than we thought
+lets take off
+we must wait
+more of us are needed to capture them
+whats she talking about
+wait just a minute
+the objects continue turning in her hand
+and turning there are more of us now
+weve surrounded them
+but theyre leaving too quickly
+well follow them
+well watch them
+beat well take them as the need for parts becomes necessary
+the wind gently hisses through the booths tent
+maybe well only take one
+beat maybe well take another
+and another a sudden gust of wind rises through the tent as
+the sound of mumbling and confusion seethes from the crowd
+julia rises out of her chair
+paul takes her into her arms as children can be heard crying throughout the park
+above them the wind hisses through the trees
+julia sits on the porch
+paul is stretched out on the grass looking up at the stars
+so the power went out
+that doesnt mean anything
+did you hear what she said
+she was talking about the accident
+the night you hit that thing on the road
+she knew about that
+julia a psychic tells you some random shit and then lets you make sense out of it
+she said it was waiting for us
+an animal was waiting for us to come along and run it down
+what was the explanation
+rotten home life
+was it taking prozac
+it wanted to stop the car
+something about needing parts
+if it needed parts it shouldnt have committed suicide
+she said there were more of them
+who cares what she said
+it doesnt mean anything
+but its not just that
+julias voice becomes soft
+as if she were telling a secret
+contd ive also had this feeling
+ever since sam disappeared
+i cant shake it
+what is it
+i feel like somethings missing
+i dont know
+its on the tip of my tongue
+i just feel like ever since we woke up that morning somethings not right
+theres someone who should be here right
+its not sam
+then did that palm reader say anything strange to you
+anything at all
+he looks back at the night sky
+can i use your phone
+a traditional home
+the phone rings and connor comes charging down the stairs
+he answers it
+julia is sitting on the couch
+i thought you were someone else
+nice to hear your voice too
+you having fun
+understated not exactly
+i got my psats back
+you think thats good enough to get into berkeley
+youll get in
+listen is dad there
+well could you leave him a message
+tell him that the movers didnt come so ill be here a few more days
+tell him that i have some stuff of moms that he might want
+show a little faith
+when have i ever forgotten something
+a piece of developing paper is slipped into the tray basin
+julia gently rocks the basin back and forth
+a picture starts to manifest on the paper
+paul splashes his face with water
+he looks worse than he did the night before
+he grabs some aspirin from the medicine cabinet
+julia leans forward to get a better view of the developing picture
+an image is slowly forming carousel horses the vague outlines of poles and children
+paul is shirtless and doing one armed push ups
+his muscles churn
+his body rises and falls like a piston
+the picture has come into view
+the children laughing as they ride the horses
+and something else
+a dark form in the center of the carousel
+pauls arm as he does push ups sweat beading on his biceps muscles rippling
+the sound of machines pulsates and segues into
+julia takes the picture out of the developing basin
+we move into the photo theres a dark shape standing in the middle of the carousel
+blurred and indistinct
+almost like a except that its waving at the camera
+paul is sitting on the couch wearing a ucla cross country tank top and tying his shoes
+julia enters from the basement
+shes carrying a stack of developed pictures
+paul you have to see this
+the picture came out but theres something really strange in the middle of it
+just like the other one of the shed
+he looks at the picture
+looks like someone on the carousel
+but theres no features
+its like a shadow
+so there wasnt enough light
+paul rubs his forehead
+julia is genuinely concerned
+whats the matter
+my head feels worse
+maybe you should lie down
+i have to go running
+no you dont
+of course i do
+your bodys like a machine
+it needs upkeep
+not when youre physically ill
+ill be okay
+ill be okay
+about the picture is that it
+beat when i saw this picture i decided to look at the other one
+just for comparisons sake
+julia takes out another photograph
+i pulled this one by mistake
+the picture of that little girl from the party
+she hands him the picture
+pauls face collapses into slack disbelief
+the little girl has disappeared from the photo
+paul turns to julia as she looks into his eyes with a mixture of fear and apprehension
+contd whats going on
+this time he doesnt have an answer
+murky and still
+a few shafts of sunlight permeate the gloom
+paul is jogging along the trail keeping a steady pace the sounds of the forest all around him
+the trail snakes towards a wooden bridge that spans over a trickling creek
+paul runs across the soles of his sneakers slapping on creaking wood
+he moves deeper into the woods
+a lonely part of the woods where almost all the daylight is blocked out by the trees
+paul jogs along the trail when he slows to a halt sweaty and out of breath
+his skin is pale
+his limbs are shivering
+paul cradles his head shutting his eyes suffering from obvious pain
+very soft oh god
+make it stop
+he starts walking forward again
+a slight tinkling sound as he kicks something at his feet
+his eyes blink open as he looks down
+there are several pieces of metal littering the trail
+almost like nuts and bolts but alien in their design
+paul reaches down and picks one of the bolts up
+he keeps walking following more pieces of metal that lead off the footpath
+a darker spot enclosed by pine trees
+a few birds are singing overhead
+paul enters the forest pushing back branches following the trail of discarded metal until he freezes
+his eyes staring directly ahead at
+hanging from branches
+scattered on the ground
+like the skin of a snake which has been shed
+paul is completely unsettled
+he kneels down picking up a flap of skin from the ground peeling it away from a steel rod dripping with oozing slime
+holds it up
+its still black in color but almost transparent in the murky light
+the wind hisses through the trees mussing pauls hair
+paul drops the piece of skin on the ground
+the birds abruptly stop singing in unison
+the wind ceases
+paul looks around the forest
+the sudden quiet has got him spooked
+his arms and legs stiffen
+paul cant even bring himself to move or breathe
+paul freaks and whirls around grabbing his shoulder to find clinging to him
+he rips it off and sprints for the footpath
+paul sprints out of the forest running with blinding speed and adrenaline
+he doesnt look back
+behind him the wind hisses through the trees again
+julia comes up from the basement
+she hears coughing coming from the bathroom
+julia enters the bathroom
+paul is retching and coughing into the toilet
+hair plastered to his forehead
+pale as death
+she goes to him
+rubs his shoulders as he coughs again
+julia brushes the hair from his forehead
+just above his temple is a scab
+no bigger than the head of an eraser
+identical to the one on julias finger
+where did this come from
+julia runs her finger over the scab
+paul immediately reels from her touch pain shooting through his head furious
+julia is shocked by the severity of his reaction
+paul holds his head tight
+almost near tears
+just dont touch it
+how long has it been there
+ever since my head started to hurt
+then i think im hallucinating
+what did you see
+like it was shed
+and all of these metal pieces
+julia is terribly concerned now
+his description frightens her but she maintains a visage of calm
+do you want to see a doctor
+i know theres one in santa mira
+i can see a doctor in los angeles
+then look i want to get out of here okay
+lets go home
+she squeezes his shoulder and walks into julia pulls out their duffle bags and suitcases
+pauls cell phone rings on the table
+julia snatches up the phone and answers
+then wait a minute slow down i cant understand what youre saying
+complete astonishment storms julias face
+paul wanders in
+who is it
+something went wrong
+gloomy and overcast
+storm clouds are brewing
+the range rover pulls down a crowded street
+julia is sitting behind the wheel
+paul sits on the passenger side leaning against the window his face pressed against the glass
+somber and weak
+the twisted remains of a car accident has brought everything to a near standstill
+police are everywhere
+an ambulance is parked along the curb lights flashing
+julia leans forward to get a better look
+victim presses a white towel against his thigh
+blood gushes from it
+a huge metal rod sticks out of his leg
+the range rover moves past the shredded cars involved in the accident
+twisted metal covers the street
+summer rain is falling
+thunder rolls overhead
+the rover pulls up to the sidewalk directly in front of an extremely opulent upper class house
+julia turns to paul who sits silently in the passenger seat
+he doesnt move
+sure you dont want to come with me
+im too sick
+i need to stay someplace
+im worried about leaving you here
+shrugs its not like hell disown me
+and i really need him right now
+julia kisses his cheek
+im taking the cell phone
+you call me
+see a doctor
+paul opens the passenger door and steps out into the rain
+julia watches him approach the house
+then she pulls away from the curb
+a nice house
+large and affluent
+the doorbell a few moments pass before a sullen figure arrives at the front door and pulls it open revealing
+standing on the front porch
+his wet hair plastered to his forehead rain streaming off his cheeks his handsome face turned pallid and colorless
+he manages a sheepish smile
+standing at the door is a man in his mid fifties mr
+a severe presence with a soured and weathered face
+he stares at paul without any sign of emotion
+paul notices the slight
+he presses onward
+a bit haltingly
+still hopeful and trying to connect
+contd i was hoping we could talk
+beat i know we havent done much of that recently but still
+beat i was hoping
+contd im in a lot of trouble
+im getting sick
+and i was hoping
+beat i was hoping you could help
+paul is having difficulty speaking
+hes almost reduced to tears as he stands in the cold stinging rain
+contd i want to come home
+desperate please let me come home
+a moment of silence
+his father stands steely eyed
+his voice is icy and distant
+i dont know you
+paul is devastated
+he can barely utter a sound
+im your son
+i dont have a son
+then i dont know you
+he slowly closes the door
+paul begins weeping openly
+the door is shut in his face
+nothing can be heard except for the rain falling outside
+julia is standing near the entrance
+a figure across the street catches julias attention a homeless man stumbling down the sidewalk talking to himself shaking a rattle
+julia turns around searching not immediately recognizing the figure that briskly approaches her its terry
+but her once perfect appearance has become harsh and drawn
+her blonde hair has been colored dark brown
+there are sagging circles under her eyes
+her skin is colorless
+she moves quickly
+julia is shocked
+terrys hands tremble
+im glad you came
+you dont have any idea how scared ive been
+why did you change your hair
+terry is about to answer when a baby starts crying in the market
+fear takes control of her face
+we cant stay here
+where are you parked
+on the street
+if we keep moving they might have trouble tracking us
+terry takes julias arm and leads her out of the market
+terry is moving at a swift pace
+she keeps looking back over her shoulder as julia tries to keep up
+rain drenches them
+what the hell is going on
+this almost sends julia reeling
+her mouth falls open
+theres three things you should remember
+what happened to sam
+first whenever you see a baby or a kid crying keep moving
+children can sense them
+thats your warning
+warning against who
+second they can control anything electrical or mechanical
+terry youre not making any sense
+third they can change things
+they can make you disappear
+tell me what happened to sam
+i am telling you
+terrified they took him
+they made him disappear
+julia stops walking
+a young college student is typing on his powerbook oblivious to the transient sitting on the sidewalk head buried in his knees a sign at his feet reading help me
+a soft whirring noise seeping from the computer as the student types
+the whirring becomes the humming of machines
+the range rover appears on the street and moves past
+they take away your identity
+people stop remembering you
+your place in society vanishes
+julia is behind the wheel
+terry is devouring a cigarette
+thats how they get you
+by making people not even care about you anymore
+did you try sams parents
+did you get the right number this time
+the number i called at the bus station was his parents
+cryptic we didnt hit a dog on the road
+but i saw it
+they switched bodies
+who are they
+terry starts laughing to herself
+tears welling in her eyes
+you have no idea
+no idea what youre dealing with
+then they dont even belong here
+like machines thats what sam said
+like machines with all this skin and moving parts
+theyre monsters julia
+julia stops at a light
+crosses the street in front of them
+hes just a yuppie with a cell phone
+but terry stiffens in her seat watching him suspiciously
+then almost as an aside he winks at her
+theres a red
+then make a right
+just keep driving
+julia is growing frightened by terrys paranoia
+the rover makes a right turn and cruises down another block
+terry keeps her eyes riveted on the people on the sidewalk
+shes practically in tears
+remember when we hit that thing with the car
+hushed it wasnt an accident
+it was a set up
+they planned it all along
+how do you know this
+sam told me
+he figured everything out
+why are they coming after us
+what do they want with us
+they have flesh and metal parts in their bodies
+sometimes they shed what they dont need
+but other parts keep getting worn out or lost
+so they take people constantly to get new parts
+soft thats not possible
+they wear the skin
+thats why you dont notice them
+half of the time theyre wearing peoples skin
+or theyre hiding in dark places
+julia is horrified
+they take other parts too
+whatever they need
+no sense of compassion
+i dont believe this
+thats why they came after us
+they got joey first
+at the cabin
+julia is dumbfounded
+thats what sam saw
+thats why he left
+he woke up and got a look at them at what they were doing to joey
+stripping him taking his skin off julia pulls over to the curb and stops
+who is joey
+what are you talking about
+amazed you dont remember
+there were five of us
+he came up in his own car
+he was pauls best friend they always wore the same thing for christ sakes
+there were only four of us
+terry is shaking now
+they got to you
+they got to you
+nobody got to me
+terry starts collecting her things
+look could you drop me off at my brothers apartment
+i need to pick up some things before i go to the airport
+where are you going
+to see my parents
+you cant just leave
+terry starts weeping
+grabbing her legs and squeezing them
+they put things in my legs so they can track me
+very concerned terry
+what can i do to help you
+terry takes her hand
+her eyes pleading
+please remember me
+from the street outside the car the sound of a toddler crying can be heard
+terrys head snaps around
+she stares out the windshield at the screaming child
+contd they found me again
+before julia can react terry bolts from the car
+julia pushes and shoves her way along the sidewalk
+terry is running like a madwoman
+pure unabated terror
+terry rushes down into a subway entrance
+people are crowded on the platform waiting as a bart train rushes into the station
+the doors open
+passengers move off the train
+others get on
+julia rushes down the stairs and pushes past the arriving commuters
+theres no sign of terry
+julia keeps searching
+finally she spots terry boarding the bart train
+julia rushes forward squirming through the crowd until she reaches the doors just as they slam closed
+she looks through the windows trying to find terry amongst the crowd inside
+the train starts to move
+standing at one of the trains passenger windows his face and palms pressed against the glass is staring directly at her
+dark circles around his eyes
+he smiles at julia
+his teeth are made of metal
+julia stands thunderstruck
+the boy in the window moves past
+the train shoots into the awaiting tunnel
+julia is left standing frozen and immobile on the platform
+near the subway entrance a homeless man with hooks for hands is convulsing as he sits against the wall
+eyes wide open
+shaking horribly and staring at nothing
+quiet and dimly lit
+several of the lights are burnt out leaving the hallway drowning in shadows
+the elevator doors open
+terry exits and moves quickly down the hallway
+her face is terrified
+she arrives at an apartment
+terry fumbles with her keys
+a soft in the hallway
+deep and hollow
+terry spins around the keys jingling in her hand
+the hall appears to be empty and dark
+one of the lights overhead is flickering and buzzing softly providing scant illumination
+she takes a step back
+a soft tinkling sound at her feet
+terry looks down to find a few pieces of metal littering the floor
+nuts and bolts
+alien in design
+terrys paranoia rises to a fever pitch
+she turns the key in the lock
+opens the front door
+terry shuts the door
+switches on the lights
+drops her keys and cell phone on a coffee table
+she moves briskly into an open suitcase on the bed
+terry snatches up a plane ticket and jams the ticket folder into her purse
+slams the suitcase closed
+terry leaves the bedroom carrying the suitcase and walks straight towards the front door
+she collects her keys and her cell phone from the table
+the lights in the apartment simultaneously go out
+terry is caught entirely off guard
+she spins around to face the living room
+terrys breathing quickens
+she puts the suitcase down
+a crack of thunder reverberates outside
+moving with the cautious steps of a small child she walks towards the front door
+foot by foot
+the only sound is her frightened breathing
+she arrives at the peephole and looks out into the empty hall
+moving right in front of the door
+one of its yellow eyes piercing through
+surrounded by midnight skin pierced with metal bolts and rods
+the door rattles like its going to break off its hinges
+something slams repeatedly against the wood
+terry tears through the apartment feet pounding
+she rushes into the bedroom
+the front door in the living room breaks open
+terry slams the bedroom door and locks it
+backs away towards the bed when
+grabbing hold of her ankle
+fused together from rotting flesh human parts and metal pieces
+terry pitches forward screaming falling to her hands and knees
+the hand starts dragging her under the bed
+terry kicks and claws on the floor
+somehow manages to free herself from the hands grip
+she goes for the window and pulls it open
+the entire bed is overturned and tossed aside
+terry is immediately drenched by the storm
+the door within her bedroom can be heard crashing open followed by a roaring unlike anything on this earth
+terry rushes down the fire escape feet banging on the metal steps
+but she stops dead in her tracks when she notices standing in the alley far below
+looking up at her
+a sound rises up behind her
+the sound of footsteps banging down the fire escape in horrified oh god
+terry desperately goes to a window
+she pulls it open stepping inside the banging the apartment floor is being renovated
+plastic tarps cover the doors and windows
+terry races through the hallway screaming wildly as she pounds on the doors
+terry rockets around the corner
+she presses the elevator door button frantically
+the sound of croaking and hissing fills the hallway
+the elevator doors slide open
+terry lunges into the elevator hits for the lobby then starts beating frenziedly on the door close button
+several shadows appear in the hallway
+terry screams wildly and keeps pounding the button
+the bizarre hissing becomes a frightful roar just as
+the elevator doors pull shut
+closing on the unseen things in the hallway
+the car starts going down
+floor lights blink above the door
+terry punches out on the cell phones keypad
+nothing comes through the receiver
+she dials again
+more static over the cell phone
+terry has started crying in anguish when the elevator comes to an abrupt halt
+the doors stay closed
+terry looks above the elevator doors
+the floor light reads basement terry starts pressing for the lobby
+the elevator wont move
+she presses the door open button the alarm button anything at all
+shes about to try dialing on the cell phone again when
+a heavy thudding sound above the elevator car roof
+the light overhead flickers like a candle
+terry gazes at the failing light then tracks her eyes towards the trap door in the roof
+a few more hollow thumps terry is petrified
+she takes a step backward
+the light flashes off and on again
+creating a strobe light effect
+behind her the elevator doors silently pull open
+terrys gaze is still focussed on the ceiling trap door
+behind her the basement is pitch black
+she continues moving backwards towards the open elevator doors step after step completely unaware
+in the moment it takes to draw a breath and scream its already over
+the light goes out
+the lobby is vacant and terribly still
+the elevator doors remain closed a few thumping sounds coming from the shaft far below
+the sound of a julia is sitting inside of the parked range rover the cell phone pressed against her ear
+from phone hello
+is this mr
+im sorry to call you so late
+overlapping who is this
+this is julia levin
+we met a few days ago at graduation
+im a friend of terrys
+i dont have a daughter
+you must have the wrong number
+beat no this is the right number
+the man hangs up the phone on the other line
+julia stares at the cell phone in stunned confusion until a sharp pain courses through her hand
+she flinches and nearly drops the phone
+julia checks her pricked finger
+the wound has grown
+an infected red spot with a open hole in the center
+the skin actually seems to be rotting around it allowing the wound to expand like a sinkhole
+a small box of aspirin are taken from the shelf
+paul tightens his fist around the box shutting his eyes fighting the excruciating the pain in his head
+he takes a deep breath and moves to the register
+need anything else
+the cashier rings him up
+four thirty two
+paul flips open his wallet
+his face drops into shock
+theres nothing inside his wallet
+no credit cards
+no drivers license
+not a thing
+contd something wrong
+paul can barely speak
+i mustve brought the wrong wallet
+paul walks out of the store
+paul stops outside running his fingers through his hair digging them into his skull
+shaking his head thats not possible
+thats not possible
+a shape grabs his shoulder
+paul spins around
+lady stands behind him
+dishevelled and caked with grime
+she holds up the drooping sleeve where a hand once was
+they took my hand
+paul stumbles back
+contd weeping they took my hand
+paul turns and starts running
+faster than hes ever run in his life
+disappearing down the dark street
+small and trendy
+julia sits at an empty booth
+staring at various black and white photographs of graduation
+the four friends are sitting together on the back porch smiling for the camera
+she squeezes her finger to help numb the pain her mind turning
+to herself joey
+then terry what were you talking about
+julia flips to another photograph
+a picture of julia paul sam and terry on the ucla campus
+dressed for graduation
+julia shakes her head
+her eyes are locked on the faces of her friends
+contd theres four of us
+theres only four of us
+she studies the picture
+julia sits up in her chair
+a revelation crosses her face
+contd a whisper who took the picture
+julia looks like shes falling into a deep hole
+her mind is racing for answers
+ive been fantasizing about a guy
+anyone we know
+the blond student sits back on the hood of a sports car
+the tattooed s insignia visible on his shoulder
+contd there were five of us
+he came up in his own car
+style text transform none paul smiling his killer grin at julia
+wearing his white shirt and gold and blue striped tie
+he was pauls best friend the blond student loosens his gold and blue striped tie from his white shirt collar as he undresses
+contd they always wore the same thing for christ sakes
+julias horrified face
+completely lost no
+the blond student standing half naked in front of julia
+holding a pair of ripped jeans
+contd im sorry
+i was just using the
+ill forgive you this once
+julia turns her head and gazes at
+sitting in a chair
+smoking a cigarette
+smiling down at her
+its just a fantasy
+candles have been placed around the room
+paul and terry are asleep on the floor
+blood drips over the superman tattoo on joeys shoulder
+julia slowly awakens to the sounds of joey screaming over sickening ripping sounds like cloth being torn in half
+there are silhouettes on the wall of three figures tearing off pieces of something in the room
+moving rapidly and ferociously
+julia spots sam screaming across the room
+shrieking julia turns her head in the direction of the ripping and tearing sounds
+her eyes slowly widen as her mouth drops into a soundless petrified look of horror
+a hand with midnight skin six fingers and punctured with steel rods covers her eyes
+a plate smashes on the floor
+julia is jolted out of her thought looks over to find a waiter picking up the pieces
+the lights flicker in the shop
+this unnerves julia completely
+she starts gathering the photographs together
+she becomes aware of the pain in her finger again
+looks at the scab
+a whisper terrys legs pauls headaches
+a thought crashes like thunder in her head
+contd oh no
+julia quickly grabs a knife from the table
+she gets up and walks straight to the ladies restroom
+cramped and dirty
+julia holds her finger over the sink
+with the point of the knifes blade she begins digging into her finger
+the pain is immediate
+julia grimaces tears forming in her eyes as the wound blossoms bright red
+blood drips into the sink julia drops the knife into the sink and pinches the wound
+a speck of metal flashes inside the wound julia continues squeezing tears rolling fingernails digging into the wound as
+julia starts pulling it out of her finger
+the splinter rises from the wound
+and rises and rises
+more blood spatters into the sink
+julia is gasping and crying as the pain becomes excruciating
+the glittering splinter is five inches long and growing
+the splinter is pulled out
+its seven inches long julia drops the splinter into the sink
+she moves away from the counter back towards the living room unbelieving horrified
+she stumbles towards the door
+julia walks out of the restroom
+everyone in the coffee shop is staring at her
+the lights are dimming
+a lack of power
+julia forces herself to move
+she goes to her table picks up the photographs and suddenly notices that in the graduation pictures julia grabs the photographs and turns around
+the customers in the coffee shop are standing now
+their eyes are dark shadows
+something about the way they stand is completely unnatural
+panic begins to settle in
+julia quickly walks to the door
+the waiter stands behind her
+contd menacing whyd you take it out
+julia gets the hell out of there
+julia bolts out the door and rushes across the street
+she reaches her car disarms the alarm and gets inside
+julia drops the photos into the passenger seat
+starts the car
+the cell phone rings
+she answers it
+paul on a pay phone
+theres panic in his voice
+where are you
+at a pay phone
+what about your dad
+he wouldnt let me in
+he told me he didnt have a son
+then julia everything in my wallets gone
+between julia and paul
+then its already started
+julia trains her eyes on the coffee shop
+theres not much time
+theyre watching me right now
+just listen to me
+there were five of us at the cabin
+beat your best friend was with us
+he had blond hair
+he had a superman tattoo on his shoulder
+i dont know anyone named joey
+thats because they erased your memory
+if you remembered him
+if you remembered what they did to him you might run like sam
+that would make it hard for them to hunt you down
+they killed him
+paul can barely stand up
+his skull is pounding
+they really exist paul
+they use human beings for parts
+i cant take this
+what you saw in the forest wasnt a hallucination
+theyve been watching us the entire time
+i cant theres a tracking device in your head
+right where the scab is
+her words sound chilling in the night air
+foreboding and deadly
+paul is filled with dread
+they want us for parts
+thats why theyre tracking us
+they take the skin and wear it
+just let me think for a second
+they already got sam and terry
+and now theyre making us disappear
+then think about it
+it cant be true
+it is true
+paul becomes upset
+he nods with grave understanding
+what are we gonna do
+we have to get back home
+theyre all over the place but we can make it
+where are you
+just below union square
+right near the cable cars
+where they turn them around
+theres a subway station near there
+i can see it
+wait for me
+at the top of the stairs
+ill be there in five minutes
+i love you
+in pain i love you
+paul hangs up
+julia tosses down the cell phone
+the car engine stops
+she tries to start the car but it the engine wont turn over
+just as shes about to try a second time she looks out the windshield
+julia frantically tries to start the car again
+she rips open the door
+julia takes off running
+the shapes pursue
+julia turns a corner and runs straight into an intersection
+as a bus barrels towards her
+julia barely leaps out of the way as the bus screeches to a halt nearly running her down
+she rises to her feet as the bus starts moving again
+several of the passengers have their faces pressed against the windows
+dark circles around their eyes
+julia keeps going
+the pursuing customers from the coffee shop are marooned on the opposite corner by traffic
+they stand motionless
+watching her escape
+a long flight of stone stairs leads down to the bart and muni stations below
+paul sits down on the steps
+julia charges down the sidewalk
+weaving past bystanders
+as she runs julia brushes past the little girl from sams graduation party
+she watches julia race off into the crowd with cold soulless eyes
+paul is sitting still
+his head cradled in his hands
+a shape appears in front of him
+paul looks up
+julia races across the intersection and streaks towards the subway station entrance
+paul is nowhere to be found
+the stairs are empty
+julia looks around desperately
+she cant find him in the crowds on the sidewalks
+she turns and looks down the stairs towards the open entryway to the subway system
+paul is walking through the entryway
+a friend with him is patting him on the shoulder
+just after paul has disappeared through the entryway the friend turns around
+his lips are parched pitch black eyes bulging his features somehow more twisted and unfamiliar
+his face twitches as he stares coldly at julia and he runs
+small pieces of metal drop from sams pants legs as he disappears through the entryway
+contd she frantically rushes down the stairs
+contd she rushes through the entryway
+the upper level is almost completely empty save a few kids and late night commuters
+julia is hysterical now
+the first time weve seen her lose control
+she looks around frantically
+spots paul and sam going down the escalator together
+julia rushes towards the turnstiles
+a guard steps out of his booth
+you need a ticket
+she keeps going
+paul and sam reach the bottom of the escalators
+they move towards the platform
+the lights start twinkling
+confused i thought you said shed be here
+sam smirks back mute
+and grabs him by the throat
+the lights go julia bolts down the escalator
+she reaches the platform and rushes to the center
+theres nobody else down there
+the lights are flickering
+slowly they return to normal
+a train rumbles through the station
+julia moves to the opposite side and looks
+resting on the tracks leading into the tunnel are a trail of metal pieces
+exactly like the ones from the cabin
+julia looks back
+the guard is coming down the escalator
+without hesitation she jumps down to the tracks
+moving quickly and bending down to avoid being seen she rushes into the awaiting subway tunnel
+drowned in shadows
+an unnatural silence fills the tunnel
+julia moves cautiously amongst the tracks
+eyes scanning the darkness
+following the trail of discarded metal
+julia spins around
+a few more hissing sounds rise from electrical sparks on the tracks
+blue light flashes within the tunnel
+then it ceases
+she turns back to continue her search wind sifting through her hair when she finds at the base of the subway wall
+julia reaches down and palms a few metal pieces at the base of the hole
+she peers inside
+a dull flickering light flashes within
+julia takes a calming breath
+she moves into the hole
+a narrow and claustrophobic space
+julia squirms through the confined space pulling herself towards the flashing light
+julia pulls herself through another opening and finds herself standing in the threshold of a corridor
+both the walls and floor are constructed of crude metal grates and long pipes
+anything could be hiding within
+she moves slowly into the corridor a strobe light flickering around her
+she gropes towards another opening
+the sound of her terrified breathing is slowly replaced by the rhythmic humming of steam rises from the pipes
+bathing the stairwell in mist
+the fluorescent lights above are glimmering in the darkness
+julia stands at the top of the stairwell
+she cant even see the bottom of the steps
+carefully she starts moving down
+her hand gripping the metal railing
+the humming of machines grows louder
+her foot accidentally kicks a few pieces of metal on the steps
+a light clinking as the metal scatters down ahead of her
+the humming of machines is closer now
+just beyond the sheathing clouds of blue and white mist
+the metal railing is suddenly replaced by human bones
+julia pulls her hand away from the railing
+looks skyward and discovers more bones are being used to brace the ceiling along with metal beams
+shutting her eyes in fear
+starts to lose control
+from somewhere within she manages to steady herself
+keeps going through the awaiting steam curtain at the bottom
+the steam parts to reveal a dark space
+cold and damp
+julia moves into the main hallway stumbling through a hallway that can best be described as a living nightmare
+mammoth pipes and human skin has been fashioned together into a wall pulsating with the heartbeat of machines that saturates the entire hallway
+steam jets into the hallway intermittently from the pipes
+creating great clouds
+julia is beyond horrified
+her face registers a numbness
+complete and total astonishment
+human bones and body parts have been so expertly fashioned into the corridor that its impossible to distinguish where the organic ends and the mechanical begins
+she enters another corridor
+her face is struck by a jet of hissing steam
+she presses onward
+slipping past the skulls and littered metal on the floor
+another blast something leaps out of the middle of it
+julia whirls back around a corner pressing flat against the wall as a black shape moves through the steam
+movements that suggest nothing by chaos and madness
+the shape hisses and croaks in the hallway
+she doesnt even breathe
+the hissing stops
+she gradually turns to peek back into the hallway where the thing once stood
+as she looks around the corner
+the shape has disappeared
+carefully she keeps going forward
+drenched in water and sweat
+slipping through the steam clouds that mask another entrance
+a massive room where empty human skins are dangling from hooks complete and preserved from head to toe
+the skins sway and rock gently in the draft
+thousands of them
+julia moves towards the center of the room
+a large operating table awaits
+but the surface of the table is sunken like a water basin
+next to the table is a pedestal littered with bloody instruments
+julia notices that pauls torn clothes are resting at the foot of the table
+shirt shredded to a rag
+sneakers orphaned nearby
+jeans spattered with blood
+her breathing quickens
+her heart pounding
+she reaches the foot of the table
+paul is lying within the basin completely naked and partially covered with littered body parts
+organs and entrails
+the basin is filled with water and blood
+an immobile form is resting next to him
+julia moves quickly
+she tries to wake him up
+paul wake up
+his nose crinkles slightly
+contd wake up
+she grabs him and lifts him up
+he starts coughing
+contd youve gotta hurry
+julia grabs his jeans
+she helps him slide down from the basin and he pulls them on
+a skinned hand grabs hers
+julia yelps a scream
+the other form a thing in the basin rises and turns
+slicked with blood
+empty sockets where the eyes should be
+mouth falling open
+a horror that shouldnt be alive
+julia screams again
+her free hand grabs a hook from the pedestal and swings the blade into the things neck
+blood fountains up
+the thing begins shrieking
+with paul leaning on her for support julia rapidly heads for the door
+julia navigates her way through the hallways
+moving blindly through sudden jets of steam the sound of machines around them
+paul leans on her his eyes remaining closed coughing and stumbling
+racing through the halls
+the steam clouds suddenly exploding into her view
+julia reaches the stairwell and helps paul climb the steps
+she looks back over her shoulder
+nothing behind them
+julia stops at the corridor opening
+the strobe light flashes within
+the corridor looks empty
+nothing but pipes and shadows
+were almost there
+julia turns to paul and finds a face with glaring yellow eyes and metal teeth
+he stares back at her
+a moment of sheer horror
+julia reels back into the corridor
+pressed flat against the wall
+sliding towards the crawl space opening
+paul starts advancing into the corridor
+grinning with teeth that flash with every click of the strobe light
+she keeps sliding away
+he grabs his chest and rips it open tearing the covering skin apart as he would a shirt
+a menagerie of human bones and metal are revealed behind it
+julia tries to scream
+she cant make a sound
+paul tears the skin covering his chest wider
+pulling it away
+stripping himself clean
+julia reaches the crawl space
+the last pieces pauls skin are torn off
+the thing that had been pretending to be paul stands in his place
+only brief glimpses are allowed by the strobe light
+an abysm of immemorial lunacy consisting of fashioned human parts and twisted metal
+a human heart beating within exposed ribs
+bones combined with pulleys and rods
+the face of a skull
+a contradiction of all matter and cosmic order
+julia slips back into the crawl space
+still trying to scream
+julia drags herself through the crawl space
+julia squeezes herself through the exposed hole
+she kicks to her feet and tears off into the tunnel
+julia has almost reached the platform opening for the train
+julia runs directly parallel to the subway platform
+the lights alongside of her start flickering and go out one by one as she advances
+she reaches the opposite tunnel and grabs hold of the platform pulling herself up
+the platform goes dark
+appearing out of the far tunnel are a dozen dark shapes scampering along the walls and running on all fours across the tracks
+their characteristics barely visible
+julia kicks back as the shrieking things bear down on her yellow eyes flaring in the dark metal teeth flashing
+julia tries to run for the escalator but the things cover the walls behind the tracks
+ready to spring
+finally one of the monsters does leap towards her
+reducing the monster to a few vestiges of scattered metal
+the other creatures on the tracks are also run down
+julia watches as the train rumbles past
+and then silence
+nothing is left except for a few swirling newspapers
+the lights flicker and come back to life
+rising up to her feet rescued from death by chance julia starts backing towards the escalator
+her eyes locked upon the darkened tunnel before she turns and races up
+rain has started falling again
+pelting the stairs
+julia dashes up the stairwell and sprints into the street
+she doesnt look back
+the rain falls so heavily that it creates a dense blue fog which shrouds the entire street
+julia appears through the storm running towards a telephone booth on the street corner
+she rips open the door steps inside and slams the door shut
+she drops a few quarters into the phone
+dark and still
+lightning frames the windows
+the picture of julia and her mother rests near a phone as the line rings
+guy comes downstairs and answers the portable
+contd bewildered is anyone there
+a flash of lightning outside
+beat they might still be around
+feeding on power from the phone lines
+can you hear me
+over phone i cant hear you
+daddy help me help me please
+more static resounds over the phone
+guy hesitates a moment then returns the portable to the cradle
+the line is abruptly cut off
+julia begins to cry
+she covers her face with her hands
+the tears roll through her fingers
+guy stares at the phone for a moment
+a strange feeling
+something isnt right
+he thinks a moment
+then shakes it off and heads upstairs moving directly past the picture next to the phone
+lightning flashes across the pictures glass frame
+the afternoon rush of people trying to get home
+three college students come down the escalator into the station
+connor is among them now eighteen and wearing a berkeley sweatshirt
+his friends are barry and why the hell didnt we bring the car
+you wanna pay for gas
+better than this shit
+i hate bart
+he has a point
+i made the mistake of trying to use the bathroom
+what do these people do
+stand with their ass hanging over the toilet and aim
+connor checks his watch
+party started an hour ago
+well make it
+trace of sarcasm yeah connor
+we might get there right after the kegs dry out
+resigned i should study anyway
+calls out from across the platform
+he turns around and scans the crowd locating a ragged figure that moves quickly towards him
+with her dirty clothing and sunken eyes it takes a moment to register
+this is julia
+her skin is pale
+her hair is stringy and knotted
+ive been looking for you
+just ignore her
+they tried to get me
+but i managed to get away
+ive always managed to get away
+a train rushes into the station
+connor is speechless
+sorry but youll help me
+you will help me
+connor raises his hands and backs towards the train as the doors slide open
+his friends are already aboard
+dont you remember
+he gets into the train
+his friends are laughing
+connor turns to his friends with a look of smirking disbelief
+how the fuck did she know my name
+she heard me say it
+overlapping its julia
+im your sister
+the doors slide closed in her face
+julia begins beating on the doors to be heard
+connor and his friends are a little freaked but theyre still laughing at her
+the train starts to move
+people inside move in front of the doors and block julias view of her brother
+contd julia runs alongside the train
+still beating on the doors
+her face awash with tears
+contd shrieks the train picks up speed
+julia is left behind
+the grinding of the wheels is heard as the train moves into the subway tunnel
+the sound of machines drowns out every other sound and consumes all
